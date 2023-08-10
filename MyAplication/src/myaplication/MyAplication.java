@@ -18,8 +18,7 @@ public class MyAplication {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Hello World");
-        System.out.println("Hello World");
-        System.out.println("Hello World");
+        
     }
     
 }
